@@ -16,3 +16,14 @@ body{
     border: solid 3px yellow;
     box-shadow: 0px 2px 20px 0px violet;
 }
+
+footer{
+    font-size: smaller;
+    padding: 30px 0px;
+    color: white;
+    background-color: black;
+    width: 70%;
+    margin: 0 auto;
+    border: solid 3px yellow;
+    box-shadow: 0px 2px 20px 0px violet;
+}
